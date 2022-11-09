@@ -21,3 +21,7 @@
   - Excluir sus archivos del directorio `node_modules`
   
 > El archivo `.gitignore` permite a Git ignorar directorios y/o archivos.
+
+
+## Patrón Model Vista Controlador
+<img src="https://i.imgur.com/LUhoPkS.png">
