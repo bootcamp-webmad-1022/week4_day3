@@ -1,0 +1,14 @@
+{
+  "name": "mongoose_odm",
+  "version": "1.0.0",
+  "description": "Mongoose CRUD ops",
+  "main": "0_ddbb-conection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ger",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.7.2"
+  }
+}
